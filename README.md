@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi! 👋 I am Dastan
 
-<!--
-**tidi18/tidi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+Ian is a backend developer with experience in Python and Django, currently working at Arteaga Group. I specialize in creating reliable and scalable web applications, as well as integration with various services through the SOAP and Calm API.
 
-Here are some ideas to get you started:
+My Technology stack:
+Backend: Python, Django, Django REST Framework (DRF)
+Database: PostgreSQL
+API for writing: drf_yasg (Swagger)
+Interface: SOAP, RESTful API
+DevOps: Docker
+Editor-in-Chief: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me
+Telegram: (https://t.me/Tidi19)
+LinkedIn: (www.linkedin.com/in/dastan-temirov) 
